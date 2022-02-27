@@ -1,0 +1,28 @@
+{
+  "folders": [
+	{
+		"path": "..\\Guess-My-Number"
+	},
+	{
+		"path": "..\\Pig-Game"
+	},
+	{
+		"path": "..\\Advanced-DOM-Bankist"
+	},
+	{
+		"path": "..\\forkify"
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\Mapty"
+	},
+	{
+		"path": "..\\..\\calculator"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Pig-Game"
+  }
+}
